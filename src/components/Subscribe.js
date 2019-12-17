@@ -6,11 +6,12 @@ export default function Subscribe() {
       <div className="container">
         <div className="row">
           <div className="col-md-10 col-lg-8 mx-auto text-center">
-            <i className="far fa-paper-plane fa-2x mb-2 text-white"></i>
-            <h2 className="text-white mb-5">Subscribe to receive updates!</h2>
+            {/* <i className="far fa-paper-plane fa-2x mb-2 text-white"></i> */}
+            {/* <h2 className="mx-auto my-0 text-uppercase">Let's Connect!</h2> */}
+            <h1 className="mx-auto my-0 text-uppercase">Let's Connect!</h1>
 
             <form className="form-inline d-flex">
-              <input
+              {/* <input
                 type="email"
                 className="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0"
                 id="inputEmail"
@@ -18,7 +19,7 @@ export default function Subscribe() {
               />
               <button type="submit" className="btn btn-primary mx-auto">
                 Subscribe
-              </button>
+              </button> */}
             </form>
           </div>
         </div>
