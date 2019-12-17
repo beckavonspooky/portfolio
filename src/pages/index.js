@@ -40,8 +40,8 @@ const IndexPage = () => (
         <div className="row">
           <div className="col-lg-8 mx-auto">
             <h2 className="text-white mb-4">I am a Software Engineer with a background in communications and marketing. I design and modify websites for clients, as well as code and test the functionality, for user friendly designs. My marketing background allows me to bring a creative flare while applying the technicality of software engineering.</h2>
-            <h3 className="text-white mb-4">Technologies</h3>
-            <h3 className="text-white mb-4">HTML5 | CSS3 | JavaScript Es6 | React | Python | Express | Node | MongoDB | jQuery | Mongoose | PostgresSQL | Flask | JSON | EJS | Postman | Terminal | GitHub |</h3>
+            <h3 className="text-white mb-4">Technical Skills</h3>
+            <h3 className="text-white mb-4">HTML5 | CSS3 | JavaScript Es6 | React | Python | Express | Nodejs | MongoDB | jQuery | Mongoose | PostgresSQL | Flask | JSON | EJS | Postman | Terminal | GitHub | </h3>
             
           </div>
         </div>
