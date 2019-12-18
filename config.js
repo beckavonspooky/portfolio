@@ -23,16 +23,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/rebeca-levy-developer/',
     },
-    // {
-    //   icon: 'fa-twitter',
-    //   name: 'Twitter',
-    //   url: 'https://twitter.com/onlyanubhav',
-    // },
-    // {
-    //   icon: 'fa-facebook-f',
-    //   name: 'Facebook',
-    //   url: 'https://facebook.com/theanubhav',
-    // },
   ],
   email: 'beckalevy@gmail.com',
   phone: '949-205-9564',

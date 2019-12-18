@@ -41,7 +41,7 @@ const IndexPage = () => (
           <div className="col-lg-8 mx-auto">
             <h2 className="text-white mb-4">I am a Software Engineer with a background in communications and marketing. I design and modify websites for clients, as well as code and test the functionality, for user friendly designs. My marketing background allows me to bring a creative flare while applying the technicality of software engineering.</h2>
             <h3 className="text-white mb-4">Technical Skills</h3>
-            <h3 className="text-white mb-4">HTML5 | CSS3 | JavaScript Es6 | React | Python | Express | Nodejs | MongoDB | jQuery | Mongoose | PostgresSQL | Flask | JSON | EJS | Postman | Terminal | GitHub | </h3>
+            <h3 className="text-white mb-4">HTML5 | CSS3 | JavaScript Es6 | React | Python | Express | EJS | Nodejs | MongoDB | jQuery | Mongoose | PostgresSQL | Peewee | Flask | JSON | Firebase | Firestore | Postman | Terminal | GitHub | Adobe Xd | Adobe Creative Suites | </h3>
             
           </div>
         </div>
@@ -62,7 +62,11 @@ const IndexPage = () => (
                 <h4>The Cocktail Index</h4>
                   <p className="text-black-50 mb-0">
                   An online community where bartenders can share their favorite or unique cocktail recipes.
+                  </p><br/>
+                  <p className="text-black-50 mb-0">
+                  MongoDB | Express | Nodejs | Mongoose | HTML5 | JavaScript Es6 | CSS | Heroku | Adobe Xd
                   </p>
+                  
               </a>
             </div>
           </div>
@@ -78,6 +82,9 @@ const IndexPage = () => (
                 <h4>LOL dad.</h4>
                   <p className="text-black-50 mb-0">
                   LOL dad is an application that allows users to get their favorite dad jokes in just ONE click! Need a way to break the ice? Just grab a dad joke!.
+                  </p><br/>
+                  <p className="text-black-50 mb-0">
+                  Reactjs | Express | Nodejs | Firebase: Authentication, Database, Storage | HTML5 | RESTful API | JavaScript Es6 | CSS | Adobe Xd
                   </p>
               </a>
             </div>
@@ -94,54 +101,15 @@ const IndexPage = () => (
                 <h4>Match-The-Card</h4>
                   <p className="text-black-50 mb-0">
                   My memory game is a single player game, and immerses the player in audio and visual designs from one of my favorite films Beetlejuice.
+                  </p> <br/>
+                  <p className="text-black-50 mb-0">
+                  HTML5 | JavaScript Es6 | CSS | JQuery | Audacity | Adobe Xd
                   </p>
               </a>
             </div>
           </div>
         </div>
         
-
-        {/* <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
-          <div className="col-lg-6">
-            <img className="img-fluid" src={project4} alt="" />
-          </div>
-          <div className="col-lg-6">
-            <div className="bg-black text-center h-100 project">
-              <div className="d-flex h-100">
-                <div className="project-text w-100 my-auto text-center text-lg-left">
-                  <a href='https://lol-dad.web.app/'>
-                    <h4 className="text-white">LOL Dad</h4>
-                    <p className="mb-0 text-white-50">
-                    LOL dad is an application that allows users to get their favorite dad jokes in just ONE click! Need a way to break the ice? Just grab a dad joke!.
-                    </p>
-                  </a>
-                  <hr className="d-none d-lg-block mb-0 ml-0" />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="row justify-content-center no-gutters">
-          <div className="col-lg-6">
-            <img className="img-fluid" src={project1} alt="" />
-          </div>
-          <div className="col-lg-6 order-lg-first">
-            <div className="bg-black text-center h-100 project">
-              <div className="d-flex h-100">
-                <div className="project-text w-100 my-auto text-center text-lg-right">
-                  <a href='https://beckavonspooky.github.io/match-the-cards/'>
-                  <h4 className="text-white">Match-The-Cards</h4>
-                  <p className="mb-0 text-white-50">
-                  My memory game is a single player game, and immerses the player in audio and visual designs from one of my favorite films Beetlejuice.
-                  </p>
-                  <hr className="d-none d-lg-block mb-0 mr-0" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> */}
         <div className="row align-items-center no-gutters mb-4 mb-lg-5">
           <div className="col-xl-8 col-lg-7">
             <img className="img-fluid mb-3 mb-lg-0" src={project3} alt="" />
@@ -152,6 +120,9 @@ const IndexPage = () => (
                 <h4>GottaGoNow</h4>
                   <p className="text-black-50 mb-0">
                   Gotta-Go-Now is an application which allows the LGBTQIA+ community find local restrooms that are identity accepting.
+                  </p> <br/>
+                  <p className="text-black-50 mb-0">
+                  Reactjs | Python | Flask | PostgresSQL | HTML5 | JavaScript Es6 | CSS | Semantic-UI-React | Adobe Xd
                   </p>
               </a>
             </div>

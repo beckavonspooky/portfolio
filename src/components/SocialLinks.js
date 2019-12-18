@@ -9,7 +9,7 @@ export default function SocialLinks() {
           <div className="col-md-4 mb-3 mb-md-0">
             <div className="card py-4 h-100">
               <div className="card-body text-center">
-                <i className="fas fa-map-marked-alt text-primary mb-2"></i>
+                <i className="fab fa-github text-primary mb-2"></i>
                 <h4 className="text-uppercase m-0">GitHub</h4>
                 <hr className="my-4" />
                 <a href='https://github.com/beckavonspooky'></a>
@@ -21,7 +21,7 @@ export default function SocialLinks() {
           <div className="col-md-4 mb-3 mb-md-0">
             <div className="card py-4 h-100">
               <div className="card-body text-center">
-                <i className="fas fa-map-marked-alt text-primary mb-2"></i>
+                <i className="fab fa-linkedin-in text-primary mb-2"></i>
                 <h4 className="text-uppercase m-0">LinkedIn</h4>
                 <hr className="my-4" />
                 <div className="small text-black-50"><a href='https://www.linkedin.com/in/rebeca-levy-developer/'>{config.linkedin}</a></div>
@@ -54,8 +54,6 @@ export default function SocialLinks() {
           </div>
           
         </div>
-
-        
 
         <div className="social d-flex justify-content-center">
           {config.socialLinks.map(social => {
