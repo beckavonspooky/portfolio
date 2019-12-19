@@ -27,5 +27,5 @@ module.exports = {
   email: 'beckalevy@gmail.com',
   phone: '949-205-9564',
   github: 'https://github.com/beckavonspooky',
-  linkedin: 'https://www.linkedin.com/in/rebeca-levy-developer/'
+  linkedin: 'https://www.linkedin.com/in/rebeca-levy-developer/',
 };

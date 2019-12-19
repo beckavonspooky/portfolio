@@ -9,7 +9,6 @@ import SocialLinks from '../components/SocialLinks';
 import Subscribe from '../components/Subscribe';
 import Header from '../components/Header';
 
-// import ipad from '../assets/images/ipad.png';
 import project3 from '../assets/pictures/gotta-go.png';
 import project4 from '../assets/pictures/lol-dad.png';
 import project1 from '../assets/pictures/match-the-card.png';
@@ -42,7 +41,6 @@ const IndexPage = () => (
             <h2 className="text-white mb-4">I am a Software Engineer with a background in communications and marketing. I design and modify websites for clients, as well as code and test the functionality, for user friendly designs. My marketing background allows me to bring a creative flare while applying the technicality of software engineering.</h2>
             <h3 className="text-white mb-4">Technical Skills</h3>
             <h3 className="text-white mb-4">HTML5 | CSS3 | JavaScript Es6 | React | Python | Express | EJS | Nodejs | MongoDB | jQuery | Mongoose | PostgresSQL | Peewee | Flask | JSON | Firebase | Firestore | Postman | Terminal | GitHub | Adobe Xd | Adobe Creative Suites | </h3>
-            
           </div>
         </div>
         
@@ -81,7 +79,7 @@ const IndexPage = () => (
             <a href='https://lol-dad.web.app/'>
                 <h4>LOL dad.</h4>
                   <p className="text-black-50 mb-0">
-                  LOL dad is an application that allows users to get their favorite dad jokes in just ONE click! Need a way to break the ice? Just grab a dad joke!.
+                  LOL dad is an application that allows users to get their favorite dad jokes in just ONE click! Need a way to break the ice? Just grab a dad joke!
                   </p><br/>
                   <p className="text-black-50 mb-0">
                   Reactjs | Express | Nodejs | Firebase: Authentication, Database, Storage | HTML5 | RESTful API | JavaScript Es6 | CSS | Adobe Xd
