@@ -56,7 +56,7 @@ const IndexPage = () => (
           </div>
           <div className="col-xl-4 col-lg-5">
             <div className="featured-text text-center text-lg-left">
-              <a href="https://thecocktailindex.herokuapp.com/">
+              <a href="https://thecocktailindex.herokuapp.com/" target="_blank">
                 <h4>The Cocktail Index</h4>
                   <p className="text-black-50 mb-0">
                   An online community where bartenders can share their favorite or unique cocktail recipes.
@@ -65,7 +65,7 @@ const IndexPage = () => (
                   MongoDB | Express | Nodejs | Mongoose | HTML5 | JavaScript Es6 | CSS | Heroku | Adobe Xd
                   </p><br/>
                   <p className="text-black-50 mb-0">
-                  <a href="https://github.com/beckavonspooky/the-cocktail-index">See the code</a>
+                  <a href="https://github.com/beckavonspooky/the-cocktail-index" target="_blank">See the code</a>
                   </p>
                   
               </a>
@@ -79,7 +79,7 @@ const IndexPage = () => (
           </div>
           <div className="col-xl-4 col-lg-5">
             <div className="featured-text text-center text-lg-left">
-            <a href='https://lol-dad.web.app/'>
+            <a href='https://lol-dad.web.app/' target="_blank">
                 <h4>LOL dad.</h4>
                   <p className="text-black-50 mb-0">
                   LOL dad is an application that allows users to get their favorite dad jokes in just ONE click! Need a way to break the ice? Just grab a dad joke!
@@ -88,7 +88,7 @@ const IndexPage = () => (
                   Reactjs | Express | Nodejs | Firebase: Authentication, Database, Storage | HTML5 | RESTful API | JavaScript Es6 | CSS | Adobe Xd
                   </p><br/>
                   <p className="text-black-50 mb-0">
-                  <a href="https://github.com/beckavonspooky/lol-dad">See the code</a>
+                  <a href="https://github.com/beckavonspooky/lol-dad" target="_blank">See the code</a>
                   </p>
               </a>
             </div>
@@ -101,7 +101,7 @@ const IndexPage = () => (
           </div>
           <div className="col-xl-4 col-lg-5">
             <div className="featured-text text-center text-lg-left">
-            <a href='https://beckavonspooky.github.io/match-the-cards/'>
+            <a href='https://beckavonspooky.github.io/match-the-cards/' target="_blank">
                 <h4>Match-The-Card</h4>
                   <p className="text-black-50 mb-0">
                   My memory game is a single player game, and immerses the player in audio and visual designs from one of my favorite films Beetlejuice.
@@ -110,7 +110,7 @@ const IndexPage = () => (
                   HTML5 | JavaScript Es6 | CSS | JQuery | Audacity | Adobe Xd
                   </p><br/>
                   <p className="text-black-50 mb-0">
-                  <a href="https://github.com/beckavonspooky/match-the-cards">See the code</a>
+                  <a href="https://github.com/beckavonspooky/match-the-cards" target="_blank">See the code</a>
                   </p>
               </a>
             </div>
@@ -123,7 +123,7 @@ const IndexPage = () => (
           </div>
           <div className="col-xl-4 col-lg-5">
             <div className="featured-text text-center text-lg-left">
-              <a href="https://gottagonow.herokuapp.com/">
+              <a href="https://gottagonow.herokuapp.com/" target="_blank">
                 <h4>GottaGoNow</h4>
                   <p className="text-black-50 mb-0">
                   Gotta-Go-Now is an application which allows the LGBTQIA+ community find local restrooms that are identity accepting.
@@ -132,7 +132,7 @@ const IndexPage = () => (
                   Reactjs | Python | Flask | PostgresSQL | HTML5 | JavaScript Es6 | CSS | Semantic-UI-React | Adobe Xd
                   </p><br/>
                   <p className="text-black-50 mb-0">
-                  <a href="https://github.com/beckavonspooky/p3-react-app/tree/master/project-3/gottago-react">See the code</a>
+                  <a href="https://github.com/beckavonspooky/p3-react-app/tree/master/project-3/gottago-react" target="_blank">See the code</a>
                   </p>
               </a>
             </div>

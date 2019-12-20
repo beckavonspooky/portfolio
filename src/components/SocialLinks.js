@@ -50,7 +50,7 @@ export default function SocialLinks() {
                 <h4 className="text-uppercase m-0">GitHub</h4>
                 <hr className="my-4" />
                 {/* <a href='https://github.com/beckavonspooky'></a> */}
-                <div className="small text-black-50"><a href='https://github.com/beckavonspooky'>{config.github}</a></div>
+                <div className="small text-black-50"><a href='https://github.com/beckavonspooky' target="_blank">{config.github}</a></div>
               </div>
             </div>
           </div>
@@ -61,7 +61,7 @@ export default function SocialLinks() {
                 <i className="fab fa-linkedin-in text-primary mb-2"></i>
                 <h4 className="text-uppercase m-0">LinkedIn</h4>
                 <hr className="my-4" />
-                <div className="small text-black-50"><a href='https://www.linkedin.com/in/rebeca-levy-developer/'>{config.linkedin}</a></div>
+                <div className="small text-black-50"><a href='https://www.linkedin.com/in/rebeca-levy-developer/' target="_blank">{config.linkedin}</a></div>
               </div>
             </div>
           </div>
@@ -72,7 +72,7 @@ export default function SocialLinks() {
                 <i className="fas fa-file text-primary mb-2"></i>
                 <h4 className="text-uppercase m-0">Resume</h4>
                 <hr className="my-4" />
-                <div className="small text-black-50"><a href='https://drive.google.com/file/d/18XaFoEOIIQiwGiS_wbVJeJC7K7flKIlv/view?usp=sharing'>Click to View</a></div>
+                <div className="small text-black-50"><a href='https://drive.google.com/file/d/18XaFoEOIIQiwGiS_wbVJeJC7K7flKIlv/view?usp=sharing' target="_blank">Click to View</a></div>
               </div>
             </div>
           </div>
