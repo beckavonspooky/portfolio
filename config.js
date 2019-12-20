@@ -13,20 +13,20 @@ module.exports = {
 
   // social
   socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/beckavonspooky',
-    },
-    {
-      icon: 'fa-linkedin-in',
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/rebeca-levy-developer/',
-    },
+    // {
+    //   icon: 'fa-github',
+    //   name: 'Github',
+    //   url: 'https://github.com/beckavonspooky',
+    // },
+    // {
+    //   icon: 'fa-linkedin-in',
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/rebeca-levy-developer/',
+    // },
   ],
   email: 'beckalevy@gmail.com',
   phone: '949-205-9564',
   github: 'https://github.com/beckavonspooky',
   linkedin: 'https://www.linkedin.com/in/rebeca-levy-developer/',
-  instagram: 'https://www.instagram.com/_whatareweeating_/'
+  
 };

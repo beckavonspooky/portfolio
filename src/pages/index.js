@@ -63,6 +63,9 @@ const IndexPage = () => (
                   </p><br/>
                   <p className="text-black-50 mb-0">
                   MongoDB | Express | Nodejs | Mongoose | HTML5 | JavaScript Es6 | CSS | Heroku | Adobe Xd
+                  </p><br/>
+                  <p className="text-black-50 mb-0">
+                  <a href="https://github.com/beckavonspooky/the-cocktail-index">See the code</a>
                   </p>
                   
               </a>
@@ -83,6 +86,9 @@ const IndexPage = () => (
                   </p><br/>
                   <p className="text-black-50 mb-0">
                   Reactjs | Express | Nodejs | Firebase: Authentication, Database, Storage | HTML5 | RESTful API | JavaScript Es6 | CSS | Adobe Xd
+                  </p><br/>
+                  <p className="text-black-50 mb-0">
+                  <a href="https://github.com/beckavonspooky/lol-dad">See the code</a>
                   </p>
               </a>
             </div>
@@ -102,6 +108,9 @@ const IndexPage = () => (
                   </p> <br/>
                   <p className="text-black-50 mb-0">
                   HTML5 | JavaScript Es6 | CSS | JQuery | Audacity | Adobe Xd
+                  </p><br/>
+                  <p className="text-black-50 mb-0">
+                  <a href="https://github.com/beckavonspooky/match-the-cards">See the code</a>
                   </p>
               </a>
             </div>
@@ -121,6 +130,9 @@ const IndexPage = () => (
                   </p> <br/>
                   <p className="text-black-50 mb-0">
                   Reactjs | Python | Flask | PostgresSQL | HTML5 | JavaScript Es6 | CSS | Semantic-UI-React | Adobe Xd
+                  </p><br/>
+                  <p className="text-black-50 mb-0">
+                  <a href="https://github.com/beckavonspooky/p3-react-app/tree/master/project-3/gottago-react">See the code</a>
                   </p>
               </a>
             </div>

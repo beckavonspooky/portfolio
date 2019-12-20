@@ -69,17 +69,17 @@ export default function SocialLinks() {
           <div className="col-md-4 mb-3 mb-md-0">
             <div className="card py-4 h-100">
               <div className="card-body text-center">
-                <i className="fab fa-instagram text-primary mb-2"></i>
-                <h4 className="text-uppercase m-0">Instagram</h4>
+                <i className="fas fa-file text-primary mb-2"></i>
+                <h4 className="text-uppercase m-0">Resume</h4>
                 <hr className="my-4" />
-                <div className="small text-black-50"><a href='https://www.instagram.com/_whatareweeating_/'>{config.instagram}</a></div>
+                <div className="small text-black-50"><a href='https://drive.google.com/file/d/18XaFoEOIIQiwGiS_wbVJeJC7K7flKIlv/view?usp=sharing'>Click to View</a></div>
               </div>
             </div>
           </div>
 
         </div>
 
-        <div className="social d-flex justify-content-center">
+        {/* <div className="social d-flex justify-content-center">
           {config.socialLinks.map(social => {
             const { icon, url } = social;
             return (
@@ -88,7 +88,7 @@ export default function SocialLinks() {
               </a>
             );
           })}
-        </div>
+        </div> */}
       </div>
     </section>
   );
