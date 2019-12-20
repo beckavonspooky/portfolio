@@ -69,10 +69,10 @@ export default function SocialLinks() {
           <div className="col-md-4 mb-3 mb-md-0">
             <div className="card py-4 h-100">
               <div className="card-body text-center">
-                <i className="fas fa-envelope text-primary mb-2"></i>
-                <h4 className="text-uppercase m-0">Resume</h4>
+                <i className="fab fa-instagram text-primary mb-2"></i>
+                <h4 className="text-uppercase m-0">Instagram</h4>
                 <hr className="my-4" />
-                <div className="small text-black-50">Resume</div>
+                <div className="small text-black-50"><a href='https://www.instagram.com/_whatareweeating_/'>{config.instagram}</a></div>
               </div>
             </div>
           </div>
