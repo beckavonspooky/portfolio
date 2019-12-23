@@ -11,7 +11,8 @@ export default function SocialLinks() {
         <div className="col-md-4 mb-3 mb-md-0">
             <div className="card py-4 h-100">
               <div className="card-body text-center">
-                <i className="fas fa-mobile-alt text-primary mb-2"></i>
+                <hr className="my-4" />
+                {/* <i className="fas fa-square text-primary mb-2"></i> */}
                 <h4 className="text-uppercase m-0">Let's Connect!</h4>
                 <hr className="my-4" />
                 {/* <div className="small text-black-50">--------</div> */}

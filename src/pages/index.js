@@ -47,7 +47,6 @@ const IndexPage = () => (
       </div>
     </section>
 
-    <h3 className="text-white mb-4">Projects</h3>
     <section id="projects" className="projects-section bg-light">
       <div className="container">
         <div className="row align-items-center no-gutters mb-4 mb-lg-5">
